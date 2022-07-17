@@ -1,0 +1,57 @@
+
+.NavbarItems {
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.2rem;
+    background: darkturquoise;
+    font-weight: 900;
+}
+
+
+
+
+.nav-menu {
+    
+    display: grid;
+    grid-template-columns: repeat(5, auto);
+    grid-gap: 10px;
+    list-style: none;
+    text-align: center;
+    width: 70vw;
+    justify-content: end;
+    margin-right: 2rem;
+    
+
+
+}
+.fa-solid, fa-calculator {
+    margin-left: 0.5rem;
+    font-size: 2.6rem;
+    color: #6e6464;
+    padding-right: 11rem;
+    
+}
+
+.navbar-logo {
+    color: #fff;
+    justify-self: start;
+    cursor: pointer;
+}
+
+
+.nav-links {
+    color: white;
+    text-decoration: none;
+    padding: 0.5 1rem;
+
+}
+
+.nav-links:hover {
+    background-color: #6e6464;
+    border-radius: 4px;
+    transition: all 0.2 ease-out;
+
+}
+ 

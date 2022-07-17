@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+:root{
+  --primary:#6948ff;
+  --secondaty:#553bcb;
+  --darkgrey:#22262a;
+  --lightgrey:#d3d3d3;
+  --grey:#808080;
+  --white:#f8f8f8;
+}
+
+
+*{
+  box-sizing: order-box;
+  margin:0;
+  padding: 0;
+}
+
+ul{
+  list-style-type: none;
+}
+
+a{
+  text-decoration: none;
+  color: var(--white);
+}
+body{
+  color:#333;
+  line-height: 1.5;
+  font-family: 'Montserrat',sans-serif;
+}
+.primary-color{
+  color:var(--primary);
+}

@@ -1,0 +1,29 @@
+.main-layout{
+    display: flex;
+background-color: rgb(255, 177, 177);
+box-shadow: 8px 8px 32px 15px rgba(110,110,110,0.29);
+margin: 10px;
+padding: 10px;
+
+}
+
+.register-form{
+
+    width: 40%;
+    background-color: aliceblue;
+    margin: 10px;
+    padding: 10px;
+    height: 20rem;
+    display: inline-block;
+    margin-left: 10%;
+}
+
+.Woman-calories{
+    width: 40%;
+    background-color: aliceblue;
+    margin: 10px;
+    padding: 10px;
+    height: 20rem;
+    display: inline-block;
+    margin-right: 10%;
+}
